@@ -1,7 +1,0 @@
-name = "vulagarism_api"
-compatibility_date = "2024-09-26"
-main = "src/index.ts"
-
-[vars]
-UPSTASH_VECTOR_REST_URL = "https://liberal-dane-5283-eu1-vector.upstash.io"
-UPSTASH_VECTOR_REST_TOKEN = "ABUFMGxpYmVyYWwtZGFuZS01MjgzLWV1MWFkbWluT0RJNFl6VXhOVEl0TlRKalppMDBaR1UwTFRobU1XTXRNemxtTVRCaE0yWmtNemc1"
