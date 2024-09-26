@@ -55,3 +55,4 @@ nbproject
 # Optional: Backup files
 *.bak
 *.backup
+.wrangler.toml
