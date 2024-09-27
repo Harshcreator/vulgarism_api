@@ -55,4 +55,10 @@ nbproject
 # Optional: Backup files
 *.bak
 *.backup
-*.wrangler.toml
+
+# Environment variables
+.env
+
+# Wrangler configuration
+wrangler.toml
+
